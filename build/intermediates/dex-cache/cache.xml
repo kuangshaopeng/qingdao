@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.7.7_2bc3afde8b2e171abb0a177ae13b48964d7f1699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.7.7_66c109367f6ff3fcc9e2c503f5144a6d12af772f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.7.7_52d2bc6af11a31655d6cc00b425253b11799d21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落/ViewPagerlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9efcd1e905d4b7eacaa2400aa590b354ea660ee5">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/青岛部落-ViewPagerlibrary-unspecified_0fcbb21cb8c9130a0867b8fd0bbf0e00cbd3760b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.7.7_33481fe55d3468f88d899ad367dc93cd04911507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-QZone-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.7.7_abef6cd75ae050ce1c3e1452fae2cdfcc29aa8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e1bd9201edc0082739936e350683d6fc1b39f9">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/青岛部落-library-unspecified_bb23dfc97a5f8ecf540af63b0e97d89c88bcf2e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Favorite-2.7.7_7b963192021e3057ebcb2fe0efb56acbb6e5c4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.7.7_b50438838e0360994ac669bc8db3424d8bf5f6e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-SinaWeibo-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d6f84355d4f6252240aebc751ba21eaea07e2dd">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.7.7_92539acd99d16062f78e13d97ed8e87363e5480a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落.SlidingMenu-master/library/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/android-support-v4_f3c85cf0852b6c8eacf3c5084139e6d763ba6b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/MobCommons-2016.0830.1940_7d109fbb48051c6625cb44289a6727f6f15c156a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-ShortMessage-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b6aec675d61c398cb0690716630e22467cae879">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-ShortMessage-2.7.7_b32f76bef7a7054971ab0f9223a78ef93d3c88d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/ShareSDK-Email-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c2bcaf541712b3f80c64496c73a914f8ac42cb8">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/ShareSDK-Email-2.7.7_9da606bd1fae220b0ecf8d9fde29184861187d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/MobTools-2016.0830.1940_76cb2030466efb1bae9c7423edb3218312ef75da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/jpush-android-2.1.9_e207695447a5ca6891206419d4cd3bdad4953054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/gson-2.3.1_dfe94b1eb5180003ed679641808722637b44b1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落.SlidingMenu-master/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="652495086c020ddce0edcfd515b83ec9ebcf2b0e">
+        <dex dex="/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/pre-dexed/debug/青岛部落.SlidingMenu-master-library-unspecified_10482b1de66f309d7af17088eea9dcb59eca74d4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/res/merged/debug/color/colorchange.xml",
+        "source": "/Users/aplle/Desktop/青岛部落/青岛部落/res/color/colorchange.xml"
+    },
+    {
+        "merged": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落/ViewPagerlibrary/unspecified/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/res/merged/debug/color/textcolor.xml",
+        "source": "/Users/aplle/Desktop/青岛部落/青岛部落/res/color/textcolor.xml"
+    },
+    {
+        "merged": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/res/merged/debug/color/text_menu_color.xml",
+        "source": "/Users/aplle/Desktop/青岛部落/青岛部落/res/color/text_menu_color.xml"
+    },
+    {
+        "merged": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/aplle/Desktop/青岛部落/青岛部落/build/intermediates/exploded-aar/青岛部落/ViewPagerlibrary/unspecified/res/color/vpi__dark_theme.xml"
+    }
+]

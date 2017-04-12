@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu-master/SlidingMenu-master.iml" filepath="$PROJECT_DIR$/SlidingMenu-master/SlidingMenu-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu-master/library/SlidingMenu-master-library.iml" filepath="$PROJECT_DIR$/SlidingMenu-master/library/SlidingMenu-master-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerlibrary/ViewPagerlibrary.iml" filepath="$PROJECT_DIR$/ViewPagerlibrary/ViewPagerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/青岛部落.iml" filepath="$PROJECT_DIR$/青岛部落.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/青岛部落-library.iml" filepath="$PROJECT_DIR$/library/青岛部落-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/青岛部落/青岛部落-青岛部落.iml" filepath="$PROJECT_DIR$/青岛部落/青岛部落-青岛部落.iml" />
+    </modules>
+  </component>
+</project>

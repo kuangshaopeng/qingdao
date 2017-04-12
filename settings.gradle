@@ -1,0 +1,4 @@
+include ':library'
+include ':青岛部落'
+include ':ViewPagerlibrary'
+include ':SlidingMenu-master:library'

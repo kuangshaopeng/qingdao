@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/aplle/Desktop/青岛部落/SlidingMenu-master/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 42,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/Users/aplle/Desktop/青岛部落/SlidingMenu-master/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 42,
+                        "endOffset": 1130
+                    }
+                }
+            }
+        ]
+    }
+]
